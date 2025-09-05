@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Davide 👋<br><br>Software developer & university student 💻🎓<br><br>Always experimenting and learning new tech ⚡<br><br>If I'm not building something, I'm definitely exploring new food 🍽️, solving puzzles 🧩, or planning my future 🎯
+Hi, I'm Davide 👋<br>Software developer & university student🎓 <br>Always experimenting and learning new tech <br>If I’m not coding, I’m most likely eating, puzzling, or planning what’s next.
 
 
 ## 🌐 Socials:
