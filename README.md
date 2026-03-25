@@ -11,4 +11,3 @@ Hi, I'm Davide 👋<br>Software developer & university student🎓
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidescaccia&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=davidescaccia&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidescaccia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
